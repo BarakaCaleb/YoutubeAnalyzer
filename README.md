@@ -1,4 +1,4 @@
-# YouTube Video Analytics Script :laptop:
+# YouTube Video Analytics Script:laptop:
 
 This script utilizes YouTube's Data and Analytics APIs to retrieve video data from a specified YouTube channel and analyze the view count for the first 24 hours after each video's upload.
 
